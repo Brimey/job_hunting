@@ -11,7 +11,7 @@ The formula I've found to be really effective (wish I created some data on it) i
 
 - *Immediately send a follow-up email after applying. Some people will say "there's no point", "don't send one because it's too early", etc. This is what I found worked BEST in my experience.*
 
-- *Once you get an offer, keep applying / interviewing. Worst-case scenario is you get rejected. Best-case scenario is you get another offer(s) that’s paying more than your current one. Majority of recruiters are only there to benefit themselves, they’re not your friend. Be prepared for them to ghost you, etc. Even if you feel like you did really well on an interview some companies will still reject you. Don't ever stop applying even after a company Don't think anything of it, just keep clicking.*
+- *Once you get an offer, keep applying / interviewing. Worst-case scenario is you get rejected. Best-case scenario is you get another offer(s) that’s offer more than your current offer(s). Majority of recruiters are only there to benefit themselves, they’re not your friend. Be prepared for them to ghost you, etc. Even if you feel like you did really well on an interview some companies will still reject you. Don't ever stop applying even after a company Don't think anything of it, just keep clicking.*
 
 - *Formula TLDR = Apply for 20 jobs per day (100 a week. I mainly used Indeed for the "Apply Now" feature) + send follow-up email immediately (create a copy-pasta) after applying.*
 
