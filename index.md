@@ -1,7 +1,7 @@
 # Methodology
 Remote work is difficult to get if you're starting out at entry level (market saturation) unless you have experience, or they really need someone with your skill set.
 
-Focus on getting a job locally (unless you really want a remote job) because the competition pool is obviously smaller. A local job might allow you to WFH. If not, you can shoot for a WFH position in your second job (probably the best option, seeing as you'll have more exp etc).
+Focus on getting a job locally (unless you really want a remote job) because the competition pool is obviously smaller. A local job MIGHT allow you to WFH (work from home). If not, you can shoot for a WFH position in your second job (probably the best option, seeing as you'll have more exp etc).
 
 Have a solid resume (includes proper grammar, spelling, etc). IMHO having the experience or skills the job needs > having the best resume on the planet, trying to figure out how to beat the ATS system and reformatting your resume 100x.
         
